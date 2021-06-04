@@ -1,0 +1,76 @@
+body{
+    margin:0px;
+    background-color:black;
+  }
+  header{
+      background-color:rgb(27, 25, 25);
+      color:white;
+      padding:3px 30px;
+      display:flex;
+      position: fixed;
+      width: 100%;
+  }
+  h1
+  {
+      line-height: 30px;
+      padding-left: 15px;
+      font-family:Dancing Script;
+      font-size:37px;
+
+  }
+  nav
+  {
+      margin-right: 50px;
+      margin-left:auto;
+      font-family: Poppins;
+  }
+  a
+  {
+      text-decoration: none;
+      margin-left: 20px;
+      padding:10px;
+      line-height:60px;
+      color:white;
+      font-size:20px;
+     
+  }
+  a:hover{
+
+      background-color:white;
+      border-radius: 5px;
+      color:black;
+  }
+  #home
+  {
+      
+      height:90%;
+      color:white;
+      display: flex;
+      padding-top:70px;
+  }   
+  #Text
+  {
+      width:40%;
+      font-size: xx-large;
+      padding:120px 30px 90px 50px;
+  }  
+  img
+  {
+      margin-top:50px;
+      float:right;
+      margin-right: 30px;
+      width=60%;
+       height=80%;
+  }
+  #Features
+  {
+      height:100%;
+      padding-top:10px;
+      display:flex;
+      overflow: hidden;
+  }
+  #Display
+ {
+  height:100%;
+  width:60%;
+}
